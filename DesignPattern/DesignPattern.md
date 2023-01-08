@@ -32,6 +32,6 @@
     - 미디에이터
     - 메멘토
     - 상태
-    - 전략
+    - 전략 : [Strategy](StrategyPattern.md)
     - 템플릿
     - 방문자
