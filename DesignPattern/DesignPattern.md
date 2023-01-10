@@ -22,7 +22,7 @@
     - 데코레이터
     - 퍼사드
     - 플라이웨이트
-    - 프록시
+    - 프록시 : [Proxy](ProxyPattern.md)
   - 행위 - 객체나 클래스 사이 알고리즘이나 책임 분배에 관련된 패턴
     - 옵저버 : [Observer](ObserverPattern.md)
     - 책임 연쇄
