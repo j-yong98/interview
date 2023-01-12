@@ -35,3 +35,5 @@
     - 전략 : [Strategy](StrategyPattern.md)
     - 템플릿
     - 방문자
+### 1.2.2 MVC 패턴
+  - MVC패턴 : [MVC 패턴](MVCPattern.md)
