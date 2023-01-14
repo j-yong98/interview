@@ -36,7 +36,10 @@
     - 템플릿
     - 방문자
 ### 1.2.2 MVC 패턴
-  - MVC패턴 : [MVC 패턴](MVCPattern.md)
+  - MVC 패턴 : [MVC 패턴](MVCPattern.md)
 
 ### 1.2.3 MVP 패턴
-  - MVP패턴 : [MVP 패턴](MVPPattern.md)
+  - MVP 패턴 : [MVP 패턴](MVPPattern.md)
+
+### 1.2.4 MVVM 패턴
+  - MVVM 패턴 : [MVVM 패턴](MVVMPattern.md)
