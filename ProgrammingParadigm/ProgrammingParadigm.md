@@ -5,7 +5,7 @@
 
 선언형 프로그래밍
 -
-[선언형 프로그래밍](Declarative Programming.md)
+[선언형 프로그래밍](DeclarativeProgramming.md)
 
 함수형 프로그래밍
 -
