@@ -11,4 +11,6 @@
 -
 [함수형 프로그래밍](DeclarativeProgramming.md)
 
+객체지향 프로그래밍
+-
 [객체지향 프로그래밍](Object-Oriented Programming.md)
