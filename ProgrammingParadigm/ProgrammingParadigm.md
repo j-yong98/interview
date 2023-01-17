@@ -5,12 +5,13 @@
 
 선언형 프로그래밍
 -
-[선언형 프로그래밍](DeclarativeProgramming.md)
+- [선언형 프로그래밍](DeclarativeProgramming.md)
 
 함수형 프로그래밍
 -
-[함수형 프로그래밍](DeclarativeProgramming.md)
+- [함수형 프로그래밍](DeclarativeProgramming.md)
 
 객체지향 프로그래밍
 -
-[객체지향 프로그래밍](Object-Oriented Programming.md)
+- [객체지향 프로그래밍](Object-Oriented Programming.md)
+- [설계원칙](SOLID.md)
