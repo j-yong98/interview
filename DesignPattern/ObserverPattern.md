@@ -95,8 +95,13 @@ b:: got message >> anmumu is op champion!
 c:: got message >> anmumu is op champion!
 */
 ~~~
-
-###### topic은 주체이자 객체가 됩니다. implements를 통해 Subject interface를 구현하였고 TopicSubscriber를 통해 옵저버를 선언할 때 해당 이름과 어떤 토픽의 옵저버가 될 것인지 정했다.
+### 옵저버 패턴은 어떻게 구현하나요??
+***
+여러가지 방법이 있기는 하지만 프록시 객체를 써서 한다.
+프록시 객체를 통해 객체의 속성이나 메서드 변화 등을 감지하고 이를 미리 설정해 놓은 옵저버들에게 전달하는 방법으로 구현합니다.
+***
+###### topic은 주체이자 객체가 됩니다.  
+###### implements를 통해 Subject interface를 구현하였고 TopicSubscriber를 통해 옵저버를 선언할 때 해당 이름과 어떤 토픽의 옵저버가 될 것인지 정했다.
 
 자바의 상속과 구현
 -
